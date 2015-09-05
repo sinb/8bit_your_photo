@@ -1,7 +1,6 @@
 ## 8bitlize your photo
 If you are an 8 bit mania like me, you would like this!
-![](./favicon.jpg)
-![](./output.png)
+<img src="favicon.jpg"  width="400px" /><img src="output.png"  width="400px" />
 ## Use your photo
 Change this line in main.m
 ```
